@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Pathfinder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Pathfinder/type-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Pathfinder/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Pathfinder/member-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
