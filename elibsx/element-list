@@ -1,0 +1,15 @@
+me.wobblyyyy.rlibx.configuration
+me.wobblyyyy.rlibx.error
+me.wobblyyyy.rlibx.hardware
+me.wobblyyyy.rlibx.hardware.encoder
+me.wobblyyyy.rlibx.hardware.gyro
+me.wobblyyyy.rlibx.hardware.led
+me.wobblyyyy.rlibx.hardware.motor
+me.wobblyyyy.rlibx.hardware.servo
+me.wobblyyyy.rlibx.input
+me.wobblyyyy.rlibx.input.controllers
+me.wobblyyyy.rlibx.interfaces
+me.wobblyyyy.rlibx.manager
+me.wobblyyyy.rlibx.operation
+me.wobblyyyy.rlibx.subsystem
+me.wobblyyyy.rlibx.util
